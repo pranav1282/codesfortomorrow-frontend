@@ -90,6 +90,9 @@ export default function SignIn() {
         <div className="mt-2 text-blue-500 font-medium">
           <Link href="/forgotPassword">Forgot Password</Link>
         </div>
+        <div className="text-blue-500 font-medium">
+          <Link href="/">Go to home page</Link>
+        </div>
       </div>
       <ToastContainer />
     </div>
